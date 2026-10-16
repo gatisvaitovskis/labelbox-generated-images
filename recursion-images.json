@@ -1,0 +1,14 @@
+[
+  {
+    "row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/generated-tree.jpg",
+    "global_key": "recursion-tree-2026-10-16",
+    "external_id": "generated-tree.jpg",
+    "media_type": "IMAGE"
+  },
+  {
+    "row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/generated-vehicle.jpg",
+    "global_key": "recursion-vehicle-2026-10-16",
+    "external_id": "generated-vehicle.jpg",
+    "media_type": "IMAGE"
+  }
+]
