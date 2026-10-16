@@ -1,0 +1,16 @@
+[
+  {
+    "row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/generated-tree.jpg",
+    "global_key": "generated-tree-2026-10-16",
+    "external_id": "generated-tree.jpg",
+    "media_type": "IMAGE",
+    "dataset_id": "cmvampwed000k07478d8gnrf1"
+  },
+  {
+    "row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/generated-vehicle.jpg",
+    "global_key": "generated-vehicle-2026-10-16",
+    "external_id": "generated-vehicle.jpg",
+    "media_type": "IMAGE",
+    "dataset_id": "cmvampwed000k07478d8gnrf1"
+  }
+]
