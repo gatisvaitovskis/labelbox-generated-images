@@ -1,0 +1,7 @@
+[
+  {"row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/scenes/scene-car.jpg", "global_key": "review-demo-car-2026-10-16", "external_id": "scene-car.jpg", "media_type": "IMAGE"},
+  {"row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/scenes/scene-cyclist.jpg", "global_key": "review-demo-cyclist-2026-10-16", "external_id": "scene-cyclist.jpg", "media_type": "IMAGE"},
+  {"row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/scenes/scene-pedestrian-dog.jpg", "global_key": "review-demo-pedestrian-2026-10-16", "external_id": "scene-pedestrian-dog.jpg", "media_type": "IMAGE"},
+  {"row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/scenes/scene-traffic-control.jpg", "global_key": "review-demo-traffic-2026-10-16", "external_id": "scene-traffic-control.jpg", "media_type": "IMAGE"},
+  {"row_data": "https://raw.githubusercontent.com/gatisvaitovskis/labelbox-generated-images/main/scenes/scene-truck-tree.jpg", "global_key": "review-demo-truck-2026-10-16", "external_id": "scene-truck-tree.jpg", "media_type": "IMAGE"}
+]
