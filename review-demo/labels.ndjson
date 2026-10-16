@@ -1,0 +1,14 @@
+{"name":"Object","bbox":{"top":330,"left":189,"height":280,"width":779},"classifications":[{"name":"Category","answer":{"name":"Vehicle"}}],"dataRow":{"globalKey":"review-demo-car-2026-10-16"}}
+{"name":"Quality","answer":{"name":"Good"},"dataRow":{"globalKey":"review-demo-car-2026-10-16"}}
+{"name":"Object","bbox":{"top":368,"left":400,"height":200,"width":280},"classifications":[{"name":"Category","answer":{"name":"Person"}}],"dataRow":{"globalKey":"review-demo-cyclist-2026-10-16"}}
+{"name":"Object","bbox":{"top":430,"left":168,"height":261,"width":823},"classifications":[{"name":"Category","answer":{"name":"Bicycle"}}],"dataRow":{"globalKey":"review-demo-cyclist-2026-10-16"}}
+{"name":"Quality","answer":{"name":"Needs review"},"dataRow":{"globalKey":"review-demo-cyclist-2026-10-16"}}
+{"name":"Object","bbox":{"top":165,"left":380,"height":414,"width":259},"classifications":[{"name":"Category","answer":{"name":"Person"}}],"dataRow":{"globalKey":"review-demo-pedestrian-2026-10-16"}}
+{"name":"Object","bbox":{"top":400,"left":620,"height":150,"width":160},"classifications":[{"name":"Category","answer":{"name":"Animal"}}],"dataRow":{"globalKey":"review-demo-pedestrian-2026-10-16"}}
+{"name":"Quality","answer":{"name":"Good"},"dataRow":{"globalKey":"review-demo-pedestrian-2026-10-16"}}
+{"name":"Object","bbox":{"top":256,"left":776,"height":133,"width":121},"classifications":[{"name":"Category","answer":{"name":"Traffic control"}}],"dataRow":{"globalKey":"review-demo-traffic-2026-10-16"}}
+{"name":"Object","bbox":{"top":60,"left":260,"height":70,"width":120},"classifications":[{"name":"Category","answer":{"name":"Traffic control"}}],"dataRow":{"globalKey":"review-demo-traffic-2026-10-16"}}
+{"name":"Quality","answer":{"name":"Good"},"dataRow":{"globalKey":"review-demo-traffic-2026-10-16"}}
+{"name":"Object","bbox":{"top":265,"left":26,"height":449,"width":768},"classifications":[{"name":"Category","answer":{"name":"Vehicle"}}],"dataRow":{"globalKey":"review-demo-truck-2026-10-16"}}
+{"name":"Object","bbox":{"top":0,"left":642,"height":627,"width":509},"classifications":[{"name":"Category","answer":{"name":"Vegetation"}}],"dataRow":{"globalKey":"review-demo-truck-2026-10-16"}}
+{"name":"Quality","answer":{"name":"Good"},"dataRow":{"globalKey":"review-demo-truck-2026-10-16"}}
