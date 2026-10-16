@@ -1,0 +1,39 @@
+{"name":"Object","bbox":{"top":330,"left":189,"height":280,"width":779},"classifications":[{"name":"Category","answer":{"name":"Vehicle","classifications":[{"name":"Vehicle type","answer":{"name":"Car"}}]}},{"name":"Occlusion","answer":{"name":"None"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-car-2026-10-16"}}
+{"name":"Key point","point":{"x":420,"y":560},"classifications":[{"name":"Point kind","answer":{"name":"Wheel"}}],"dataRow":{"globalKey":"street-scene-car-2026-10-16"}}
+{"name":"Scene","answer":{"name":"Street"},"dataRow":{"globalKey":"street-scene-car-2026-10-16"}}
+{"name":"Lighting","answer":{"name":"Daylight"},"dataRow":{"globalKey":"street-scene-car-2026-10-16"}}
+{"name":"Weather","answer":{"name":"Clear"},"dataRow":{"globalKey":"street-scene-car-2026-10-16"}}
+{"name":"Image quality","answer":{"name":"Good"},"dataRow":{"globalKey":"street-scene-car-2026-10-16"}}
+{"name":"Notes","answer":"Red hatchback beside a brick building, with a tree behind the car.","dataRow":{"globalKey":"street-scene-car-2026-10-16"}}
+{"name":"Object","bbox":{"top":368,"left":400,"height":200,"width":280},"classifications":[{"name":"Category","answer":{"name":"Person"}},{"name":"Occlusion","answer":{"name":"None"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Object","bbox":{"top":430,"left":168,"height":261,"width":823},"classifications":[{"name":"Category","answer":{"name":"Bicycle"}},{"name":"Occlusion","answer":{"name":"Heavy"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Key point","point":{"x":540,"y":400},"classifications":[{"name":"Point kind","answer":{"name":"Head"}}],"dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Scene","answer":{"name":"Street"},"dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Lighting","answer":{"name":"Daylight"},"dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Weather","answer":{"name":"Clear"},"dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Image quality","answer":{"name":"Good"},"dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Notes","answer":"Helmeted rider on a gray bicycle on a rural road. The rider hides much of the bicycle.","dataRow":{"globalKey":"street-scene-cyclist-2026-10-16"}}
+{"name":"Object","bbox":{"top":165,"left":380,"height":414,"width":259},"classifications":[{"name":"Category","answer":{"name":"Person"}},{"name":"Occlusion","answer":{"name":"None"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Object","bbox":{"top":400,"left":620,"height":150,"width":160},"classifications":[{"name":"Category","answer":{"name":"Animal"}},{"name":"Occlusion","answer":{"name":"Partial"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Key point","point":{"x":500,"y":190},"classifications":[{"name":"Point kind","answer":{"name":"Head"}}],"dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Scene","answer":{"name":"Residential"},"dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Lighting","answer":{"name":"Overcast"},"dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Weather","answer":{"name":"Cloudy"},"dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Image quality","answer":{"name":"Acceptable"},"dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Notes","answer":"Person walking a brown and white dog, with a distant car on the right.","dataRow":{"globalKey":"street-scene-pedestrian-2026-10-16"}}
+{"name":"Object","bbox":{"top":256,"left":776,"height":133,"width":121},"classifications":[{"name":"Category","answer":{"name":"Traffic control","classifications":[{"name":"Control type","answer":{"name":"Stop sign"}}]}},{"name":"Occlusion","answer":{"name":"None"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Object","bbox":{"top":60,"left":260,"height":70,"width":120},"classifications":[{"name":"Category","answer":{"name":"Traffic control","classifications":[{"name":"Control type","answer":{"name":"Signal"}}]}},{"name":"Occlusion","answer":{"name":"None"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Key point","point":{"x":836,"y":322},"classifications":[{"name":"Point kind","answer":{"name":"Sign center"}}],"dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Scene","answer":{"name":"Intersection"},"dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Lighting","answer":{"name":"Daylight"},"dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Weather","answer":{"name":"Clear"},"dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Image quality","answer":{"name":"Good"},"dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Notes","answer":"Stop sign and traffic signal at an intersection, plus a small street sign.","dataRow":{"globalKey":"street-scene-traffic-2026-10-16"}}
+{"name":"Object","bbox":{"top":265,"left":26,"height":449,"width":768},"classifications":[{"name":"Category","answer":{"name":"Vehicle","classifications":[{"name":"Vehicle type","answer":{"name":"Truck"}}]}},{"name":"Occlusion","answer":{"name":"Partial"}},{"name":"Truncation","answer":{"name":"Fully visible"}}],"dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
+{"name":"Object","bbox":{"top":0,"left":642,"height":627,"width":509},"classifications":[{"name":"Category","answer":{"name":"Vegetation"}},{"name":"Occlusion","answer":{"name":"None"}},{"name":"Truncation","answer":{"name":"Cut off"}}],"dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
+{"name":"Key point","point":{"x":220,"y":680},"classifications":[{"name":"Point kind","answer":{"name":"Wheel"}}],"dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
+{"name":"Scene","answer":{"name":"Street"},"dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
+{"name":"Lighting","answer":{"name":"Daylight"},"dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
+{"name":"Weather","answer":{"name":"Clear"},"dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
+{"name":"Image quality","answer":{"name":"Poor"},"dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
+{"name":"Notes","answer":"White box truck partly behind a large tree whose canopy is cut off at the top of the frame.","dataRow":{"globalKey":"street-scene-truck-2026-10-16"}}
