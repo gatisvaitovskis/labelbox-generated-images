@@ -1,0 +1,4 @@
+{"name":"Object","bbox":{"top":80,"left":30,"height":630,"width":960},"classifications":[{"name":"Type","answer":{"name":"Tree"}}],"dataRow":{"globalKey":"recursion-tree-2026-10-16"}}
+{"name":"Quality","answer":{"name":"Good"},"dataRow":{"globalKey":"recursion-tree-2026-10-16"}}
+{"name":"Object","bbox":{"top":300,"left":190,"height":300,"width":800},"classifications":[{"name":"Type","answer":{"name":"Vehicle"}}],"dataRow":{"globalKey":"recursion-vehicle-2026-10-16"}}
+{"name":"Quality","answer":{"name":"Good"},"dataRow":{"globalKey":"recursion-vehicle-2026-10-16"}}
